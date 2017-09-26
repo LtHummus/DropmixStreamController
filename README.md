@@ -18,6 +18,10 @@ Basically, you play your hand normally in physical space. To manage your opponen
 
 When your stream/opponent tells you what card to play, they should tell you something like "I want to play the vocals for Call Me Maybe. It is card number 4 in my hand, from Sweets and place it in the first slot on the board."  You will fish out that card from the sweets pack (this requires you to have the physical card on hand), and place it on the board to actually play it. Then continue. KEEP IN MIND THAT WHEN A CARD IS PLAYED, THE CARD NUMBERS MAY CHANGE! FACTOR THIS IN.
 
+## Where to go from here
+
+While I don't know how much more work I'm going to put in to this (I've got bigger fish to fry at the moment), I would love to turn this in to a Twitch bot and integrate with their IRC chat system for better interactivity. That should cut some of the stream delay effects out.
+
 ## Caveats
 
 Like I said, this is quick and dirty.  There is no error handling nor is there any recovery if you make a mistake.  Play with it a few times before you do it for real.
